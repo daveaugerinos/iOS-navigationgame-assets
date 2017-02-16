@@ -14,6 +14,7 @@
 		A25BCAE31E555B3C00700E3E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A25BCAE21E555B3C00700E3E /* Assets.xcassets */; };
 		A25BCAE61E555B3C00700E3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A25BCAE41E555B3C00700E3E /* LaunchScreen.storyboard */; };
 		A25BCAF11E555B3D00700E3E /* Entering_A_HouseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCAF01E555B3D00700E3E /* Entering_A_HouseTests.m */; };
+		A25BCAFD1E562F9C00700E3E /* GoHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25BCAFC1E562F9C00700E3E /* GoHomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		A25BCAEC1E555B3D00700E3E /* Entering A HouseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Entering A HouseTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A25BCAF01E555B3D00700E3E /* Entering_A_HouseTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Entering_A_HouseTests.m; sourceTree = "<group>"; };
 		A25BCAF21E555B3D00700E3E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A25BCAFB1E562F9C00700E3E /* GoHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GoHomeViewController.h; sourceTree = "<group>"; };
+		A25BCAFC1E562F9C00700E3E /* GoHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoHomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				A25BCADC1E555B3C00700E3E /* ViewController.h */,
 				A25BCADD1E555B3C00700E3E /* ViewController.m */,
 				A25BCADF1E555B3C00700E3E /* Main.storyboard */,
+				A25BCAFB1E562F9C00700E3E /* GoHomeViewController.h */,
+				A25BCAFC1E562F9C00700E3E /* GoHomeViewController.m */,
 				A25BCAE21E555B3C00700E3E /* Assets.xcassets */,
 				A25BCAE41E555B3C00700E3E /* LaunchScreen.storyboard */,
 				A25BCAE71E555B3C00700E3E /* Info.plist */,
@@ -216,6 +221,7 @@
 				A25BCADE1E555B3C00700E3E /* ViewController.m in Sources */,
 				A25BCADB1E555B3C00700E3E /* AppDelegate.m in Sources */,
 				A25BCAD81E555B3C00700E3E /* main.m in Sources */,
+				A25BCAFD1E562F9C00700E3E /* GoHomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

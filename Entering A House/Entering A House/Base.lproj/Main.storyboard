@@ -9,10 +9,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--Front Door-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                <viewController title="Front Door" id="BYZ-38-t0r" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
@@ -42,10 +42,10 @@
             </objects>
             <point key="canvasLocation" x="932" y="-546.47676161919048"/>
         </scene>
-        <!--View Controller-->
+        <!--Coat Room-->
         <scene sceneID="Vsz-Kt-VPD">
             <objects>
-                <viewController id="oXF-hp-tLM" sceneMemberID="viewController">
+                <viewController title="Coat Room" id="oXF-hp-tLM" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Hib-rG-kzS"/>
                         <viewControllerLayoutGuide type="bottom" id="5Qg-rS-jhw"/>
@@ -90,10 +90,10 @@
             </objects>
             <point key="canvasLocation" x="1752.8" y="-546.47676161919048"/>
         </scene>
-        <!--View Controller-->
+        <!--Library-->
         <scene sceneID="zAs-oc-GOu">
             <objects>
-                <viewController id="doW-0F-VnP" sceneMemberID="viewController">
+                <viewController title="Library" id="doW-0F-VnP" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="gRk-c3-egR"/>
                         <viewControllerLayoutGuide type="bottom" id="8xq-kv-HFZ"/>
@@ -122,10 +122,10 @@
             </objects>
             <point key="canvasLocation" x="2580" y="-1261.6191904047978"/>
         </scene>
-        <!--View Controller-->
+        <!--Secret Passage-->
         <scene sceneID="RiO-N5-cbu">
             <objects>
-                <viewController id="xTm-3z-Bne" sceneMemberID="viewController">
+                <viewController title="Secret Passage" id="xTm-3z-Bne" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="qK2-u4-KBP"/>
                         <viewControllerLayoutGuide type="bottom" id="mwK-Rl-fjj"/>
@@ -170,10 +170,10 @@
             </objects>
             <point key="canvasLocation" x="3400.8000000000002" y="-1262.5187406296852"/>
         </scene>
-        <!--View Controller-->
+        <!--Dungeon-->
         <scene sceneID="8tc-Tq-dWB">
             <objects>
-                <viewController id="RAp-oM-upp" sceneMemberID="viewController">
+                <viewController title="Dungeon" id="RAp-oM-upp" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="6ic-US-xsF"/>
                         <viewControllerLayoutGuide type="bottom" id="xH7-Cs-e1z"/>
@@ -194,10 +194,10 @@
             </objects>
             <point key="canvasLocation" x="4308" y="-2671"/>
         </scene>
-        <!--View Controller-->
+        <!--Laboratory-->
         <scene sceneID="TPu-MQ-Tzp">
             <objects>
-                <viewController id="WLC-zp-76o" sceneMemberID="viewController">
+                <viewController title="Laboratory" id="WLC-zp-76o" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="iSm-8m-bBf"/>
                         <viewControllerLayoutGuide type="bottom" id="zhv-XD-8Xb"/>
@@ -226,10 +226,10 @@
             </objects>
             <point key="canvasLocation" x="4308" y="-1950"/>
         </scene>
-        <!--View Controller-->
+        <!--Generator-->
         <scene sceneID="2wZ-1n-hid">
             <objects>
-                <viewController id="yM1-Bk-XQi" sceneMemberID="viewController">
+                <viewController title="Generator" id="yM1-Bk-XQi" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="45Y-nf-F24"/>
                         <viewControllerLayoutGuide type="bottom" id="9Sa-fR-CsY"/>
@@ -250,10 +250,10 @@
             </objects>
             <point key="canvasLocation" x="5209" y="-1949"/>
         </scene>
-        <!--View Controller-->
+        <!--Mysterious Lake-->
         <scene sceneID="HfQ-YM-hIY">
             <objects>
-                <viewController id="t3U-fb-gjd" sceneMemberID="viewController">
+                <viewController title="Mysterious Lake" id="t3U-fb-gjd" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="fFZ-V6-Kgw"/>
                         <viewControllerLayoutGuide type="bottom" id="aKf-Cq-ZhX"/>
@@ -282,10 +282,10 @@
             </objects>
             <point key="canvasLocation" x="4308" y="-1263"/>
         </scene>
-        <!--View Controller-->
+        <!--Cursed Chalice-->
         <scene sceneID="hWh-nL-Yxz">
             <objects>
-                <viewController id="Mat-7O-rSa" sceneMemberID="viewController">
+                <viewController title="Cursed Chalice" id="Mat-7O-rSa" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="IaM-gU-U8O"/>
                         <viewControllerLayoutGuide type="bottom" id="vWA-0a-pZd"/>
@@ -306,10 +306,10 @@
             </objects>
             <point key="canvasLocation" x="5210" y="-1262"/>
         </scene>
-        <!--View Controller-->
+        <!--Dinning Room-->
         <scene sceneID="P2c-Z2-Ilg">
             <objects>
-                <viewController id="Za6-6h-P6y" sceneMemberID="viewController">
+                <viewController title="Dinning Room" id="Za6-6h-P6y" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Gmn-N3-bml"/>
                         <viewControllerLayoutGuide type="bottom" id="Btt-L1-guO"/>
@@ -338,10 +338,10 @@
             </objects>
             <point key="canvasLocation" x="2580" y="-546.47676161919048"/>
         </scene>
-        <!--View Controller-->
+        <!--Kitchen-->
         <scene sceneID="Cel-ZJ-Lfe">
             <objects>
-                <viewController id="MWM-eq-Syi" sceneMemberID="viewController">
+                <viewController title="Kitchen" id="MWM-eq-Syi" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="V3e-0M-hsW"/>
                         <viewControllerLayoutGuide type="bottom" id="Ush-Cm-qGQ"/>
@@ -370,10 +370,10 @@
             </objects>
             <point key="canvasLocation" x="3400.8000000000002" y="-546.47676161919048"/>
         </scene>
-        <!--View Controller-->
+        <!--Back Porch-->
         <scene sceneID="oOj-5j-Boq">
             <objects>
-                <viewController id="Hnh-n1-nLc" sceneMemberID="viewController">
+                <viewController title="Back Porch" id="Hnh-n1-nLc" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ma5-cf-6xg"/>
                         <viewControllerLayoutGuide type="bottom" id="thZ-rN-izJ"/>
@@ -394,10 +394,10 @@
             </objects>
             <point key="canvasLocation" x="4308" y="-546"/>
         </scene>
-        <!--View Controller-->
+        <!--Stairs-->
         <scene sceneID="1lU-fu-qHc">
             <objects>
-                <viewController id="ohS-iG-S7h" sceneMemberID="viewController">
+                <viewController title="Stairs" id="ohS-iG-S7h" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="A4e-8A-tBP"/>
                         <viewControllerLayoutGuide type="bottom" id="Ubz-TF-DqE"/>
@@ -434,10 +434,10 @@
             </objects>
             <point key="canvasLocation" x="2580" y="218"/>
         </scene>
-        <!--View Controller-->
+        <!--Bedroom-->
         <scene sceneID="4YJ-fv-V1f">
             <objects>
-                <viewController id="DzT-an-EcO" sceneMemberID="viewController">
+                <viewController title="Bedroom" id="DzT-an-EcO" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="7zo-hO-B9x"/>
                         <viewControllerLayoutGuide type="bottom" id="owB-3s-zTA"/>
@@ -458,10 +458,10 @@
             </objects>
             <point key="canvasLocation" x="3401" y="217"/>
         </scene>
-        <!--View Controller-->
+        <!--Bathroom-->
         <scene sceneID="4yB-dD-Nmb">
             <objects>
-                <viewController id="02a-mJ-vib" sceneMemberID="viewController">
+                <viewController title="Bathroom" id="02a-mJ-vib" customClass="GoHomeViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ALU-7e-lm7"/>
                         <viewControllerLayoutGuide type="bottom" id="BbB-BG-hjW"/>
@@ -482,14 +482,17 @@
             </objects>
             <point key="canvasLocation" x="3401" y="975"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Enter A House-->
         <scene sceneID="10s-SK-f0k">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="vbz-K6-DQh" sceneMemberID="viewController">
+                <navigationController title="Enter A House" automaticallyAdjustsScrollViewInsets="NO" id="vbz-K6-DQh" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="ObN-zC-otQ">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="ObN-zC-otQ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="28"/>
+                        </textAttributes>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
